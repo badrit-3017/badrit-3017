@@ -4,7 +4,7 @@ I am Badrit Bin Imran. I am currently doing my final year at Trent University. M
 
 ## My skills:
 * Mobile App development
-* Backend development for Web apps
+* Backend development for Web Apps
 
 ## I have worked at:
 * Backend developer at [Overscore Media](https://overscore.media/)
